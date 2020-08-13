@@ -1,5 +1,5 @@
 {
-  "name": "@kaneoh/eslint-config-rolo-backend",
+  "name": "@kaneoh/eslint-config-backend",
   "version": "0.1.4",
   "description": "rolo backend eslint defaults",
   "main": "index.js",
