@@ -21,7 +21,6 @@ module.exports = {
     'indent': 'off',
     'eol-last': 'off',
     'no-invalid-this': 0,
-    'babel/no-invalid-this': 1,
     'comma-dangle': 'off',
     'semi': 'off',
     'key-spacing': 'off',
