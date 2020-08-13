@@ -1,6 +1,6 @@
 module.exports = {
   'extends': ['plugin:prettier/recommended', 'eslint:recommended', 'google'],
-  'plugins': ['prettier', 'import'],
+  'plugins': ['prettier', 'import', 'babel'],
   'env': {
     'es6': true,
     'node': true,
