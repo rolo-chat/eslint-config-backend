@@ -1,4 +1,4 @@
-module.expots = {
+module.exports = {
   'extends': ['plugin:prettier/recommended', 'eslint:recommended', 'google'],
   'plugins': ['prettier', 'import', 'babel'],
   'env': {
