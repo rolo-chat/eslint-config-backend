@@ -66,6 +66,7 @@ module.exports = {
       'babel-module': {
         'root': './src',
         'alias': {
+          'engine': '@kaneoh/rolo-server-engine',
           'test': './test',
           'env': './env'
         }
