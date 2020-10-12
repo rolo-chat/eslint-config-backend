@@ -3,7 +3,7 @@ module.exports = {
     node: true,
     mocha: true,
   },
-  extends: ["prettier/babel"],
+  extends: ["eslint-config-rolo", "prettier/babel"],
   plugins: ["babel"],
   globals: {
     expect: "readonly",
