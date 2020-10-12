@@ -1,17 +1,17 @@
-# Eslint config frontedn
+# Eslint config Rolo backend
 
-Eslint config for the frontend teams working on Rolo.
+Eslint config for the backend teams working on Rolo.
 
 ## Install
 
 ```bash
-npm i -D @rolo-chat/eslint-config-frontend
+npm i -D eslint-config-rolo-backend
 ```
 
 Add it as a config in `.eslintrc`
 
 ```json
 {
-  "extends": ["@rolo-chat/eslint-config-frontend"]
+  "extends": ["eslint-config-rolo-backend"]
 }
 ```
