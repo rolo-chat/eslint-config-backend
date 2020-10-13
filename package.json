@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rolo-backend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Eslint config for the Rolo backend teams",
   "main": "src/index.js",
   "scripts": {},
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rolo-chat/eslint-config-backend#readme",
   "dependencies": {
-    "eslint-config-rolo": "0.0.2"
+    "eslint-config-rolo": "0.0.3"
   },
   "devDependencies": {}
 }
