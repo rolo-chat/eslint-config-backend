@@ -22,7 +22,7 @@ module.exports = {
     "import/resolver": {
       "babel-module": {
         alias: {
-          engine: "@kaneoh/rolo-server-engine",
+          engine: "@rolo-chat/server-engine",
         },
       },
     },
